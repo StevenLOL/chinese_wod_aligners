@@ -15,5 +15,5 @@ punctuations = [u'(',u'-lrb-',u'.',u',',u'-',u'?',u'!',u';',u'_',u':',u'{',u'}',
 # stopwords = stopwords.words('english')
 stopwords = stopwords.words('english')
 
-SENTENCES_INFO_URL= 'http://106.75.47.70/corpus-manager/sentence_new/info.show'
-SENTENCES_INFO_SERVER= '106.75.47.70'
+SENTENCES_INFO_URL= 'http://xx.xx.xx.xx./corpus-manager/sentence_new/info.show'
+SENTENCES_INFO_SERVER= 'xx.xx.xx.xx'
